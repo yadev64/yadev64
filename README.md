@@ -1,19 +1,21 @@
 ### Hi there 👋
 
+## I'm Yadev Jayachandran
+
+#### Welcome to my profile
+
 <!--
 **yadev64/yadev64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on building scalable web products
+- 🌱 I’m currently learning everything new out there
+- 🧰 I mostly work using: Vue, Laravel, Node, Figma but I enjoy working on Android studio, Unity, Scripting on C# and more
+- 💬 Ask me about Vue, product development, UIUX or anything that's related to tech or design
+- 📫 How to reach me: yadev64@gmail.com
+
 
 
 ### 🔥 Streak Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
@@ -31,6 +33,8 @@ Here are some ideas to get you started:
 
 
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=yadev64&theme=gruvbox&hide_border=true&area=true)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=yadev64&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
+<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="60" /><b>Git profile Trophies</b></h4></p><br>
+<img src="https://github-profile-trophy.vercel.app/?username=yadev64&theme=gruvbox" />
