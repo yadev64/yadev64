@@ -26,15 +26,9 @@ Here are some ideas to get you started:
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yadev64&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=yadev64&show_icons=true&locale=en&theme=gruvbox" alt="ovi" width="410" /></p>
 <br><br><br><br><br>
 
 <hr>
-
-
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=yadev64&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="60" /><b>Git profile Trophies</b></h4></p><br>
 <img src="https://github-profile-trophy.vercel.app/?username=yadev64&theme=gruvbox" />
