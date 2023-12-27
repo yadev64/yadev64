@@ -19,7 +19,10 @@ Here are some ideas to get you started:
 
 
 ### 🔥 Streak Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=yadev64&theme=gruvbox" alt="Stats"  /></p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yadev64&theme=vue_icons=true)
+
+<!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=yadev64&theme=gruvbox" alt="Stats"  /></p> -->
 
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=yadev64&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="ovi" /></p>
 
