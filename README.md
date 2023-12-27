@@ -20,12 +20,14 @@ Here are some ideas to get you started:
 
 ### 🔥 Streak Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=yadev64&theme=gruvbox" alt="Stats"  /></p>
+<br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yadev64&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="ovi" /></p>
+
 
 <hr>
-<p align="center">
+<!-- <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
- 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yadev64&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="ovi" /></p>
+ -->
 <br><br><br><br><br>
 
 <hr>
