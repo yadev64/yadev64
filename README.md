@@ -59,3 +59,5 @@ Here are some ideas to get you started:
 
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="60" /><b>Git profile Trophies</b></h4></p><br>
 <img src="https://github-profile-trophy.vercel.app/?username=yadev64&theme=gruvbox" />
+
+[![](https://visitcount.itsvg.in/api?id=yadev64&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
